@@ -10,4 +10,8 @@ output: pdf_document
 Y<- rnorm( 100)
 hist( Y)
 ```
+Johann Carl Friedrich Gauss was a German mathematician and physicist who made significant contributions to many fields in mathematics and science. Wasn't he so cute?
+
+![](carl_gauss.jpg){width=25%}
+
 
